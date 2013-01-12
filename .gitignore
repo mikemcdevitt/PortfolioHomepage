@@ -1,0 +1,6 @@
+/source/nbproject/private/
+*.properties
+
+source/nbproject/project.xml
+
+source/portfolio/analytics.php
